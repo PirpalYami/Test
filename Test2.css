@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Zain", sans-serif;
+}
+
+div{
+    border: 5px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: papayawhip;
+    margin-bottom: 100px;
+    margin: 0px auto;
+    margin-bottom: 20px;
+}
+div.Red{
+    background-color: red;
+}
+div.Blue{
+    background-color: blue;
+}
+div.Green{
+    background-color: green;
+}
+h1{
+    font-family: "Zain", sans-serif;
+}
+div.Blue{
+    border-radius: 50%;
+}
+
